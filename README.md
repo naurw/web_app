@@ -5,14 +5,14 @@
 
 
 ## Outline
-Over the last 2 weeks, how often have you been bothered by the following problems 
-0 = Not at all 
-1 = Several days 
-2 = More than half the days 
+Over the last 2 weeks, how often have you been bothered by the following problems <br> 
+0 = Not at all | 
+1 = Several days | 
+2 = More than half the days | 
 3 = Nearly every day 
 
 
-PH-9 
+***PH-9***
 1. Little interest or pleasure doing things 
 2. Feeling down, depressed, or hopeless 
 3. Trouble falling or staying asleep, or sleeping too much 
@@ -26,16 +26,15 @@ PH-9
 
 Diagnosis Total Score For Score Action Minimal depression 
 
-Total scores: 
-0-4 Mild depression 
-5-9 Moderate depression 
-10-14 Moderately severe depression 
-15-19 
-Severe depression 20-27 
+**Total scores:** <br> 
+0-4 Mild depression <br> 
+5-9 Moderate depression <br> 
+10-14 Moderately severe depression <br> 
+15-19 <br> 
+Severe depression 20-27 <br> 
 
 
-GAD-7
-Over the last 2 weeks, how often have you been bothered by the following problems 
+***GAD-7***
 1. Feeling nervous, anxious, or on the edge 
 2. Not being able to stop or control worrying 
 3. Worrying too much about different things 
@@ -44,11 +43,11 @@ Over the last 2 weeks, how often have you been bothered by the following problem
 6. Becoming easily annoyed or irritable 
 7. Feeling afraid as if something awful might happen 
 
-Total Scores:
-0-5 Mild 
-6-10 Moderate 
-11-15 Moderately severe anxiety 
-15-21 Severe anxiety 
+**Total Scores:** <br> 
+0-5 Mild <br> 
+6-10 Moderate <br> 
+11-15 Moderately severe anxiety <br> 
+15-21 Severe anxiety <br> 
 
 Source: 
 * https://www.phqscreeners.com/select-screener
