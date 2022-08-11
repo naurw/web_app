@@ -51,6 +51,6 @@ Total Scores:
 15-21 Severe anxiety 
 
 Source: 
-https://www.phqscreeners.com/select-screener
-https://www.med.umich.edu/1info/FHP/practiceguides/depress/score.pdf
-https://www.medi-stats.com/gad-7-phq-9#:~:text=The%20GAD%2D7%20score%20is,scores%20for%20the%20seven%20questions.
+* https://www.phqscreeners.com/select-screener
+* https://www.med.umich.edu/1info/FHP/practiceguides/depress/score.pdf
+* https://www.medi-stats.com/gad-7-phq-9#:~:text=The%20GAD%2D7%20score%20is,scores%20for%20the%20seven%20questions.
